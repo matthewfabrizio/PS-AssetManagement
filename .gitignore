@@ -1,0 +1,5 @@
+# Don't check in the Output dir
+.vscode/
+PS-AssetManagement/db
+.log/status.log
+*.log
